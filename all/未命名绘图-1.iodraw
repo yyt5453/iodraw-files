@@ -4,7 +4,7 @@
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
-        <mxCell id="Y4lvauFyZp7Z05fXx9ju-11" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="fuSBg8GUouG9gl6498T8-2" target="Y4lvauFyZp7Z05fXx9ju-10">
+        <mxCell id="Y4lvauFyZp7Z05fXx9ju-11" style="orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="fuSBg8GUouG9gl6498T8-2" target="Y4lvauFyZp7Z05fXx9ju-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fuSBg8GUouG9gl6498T8-2" value="用户" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
@@ -29,6 +29,9 @@
         </mxCell>
         <mxCell id="Y4lvauFyZp7Z05fXx9ju-6" value="浏览公告图" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="225" y="450" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Y4lvauFyZp7Z05fXx9ju-12" style="orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Y4lvauFyZp7Z05fXx9ju-7" target="fuSBg8GUouG9gl6498T8-2">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Y4lvauFyZp7Z05fXx9ju-7" value="浏览" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="460" y="440" width="100" height="60" as="geometry" />
