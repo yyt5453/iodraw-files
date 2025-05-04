@@ -215,7 +215,7 @@
         <mxCell id="Y4lvauFyZp7Z05fXx9ju-83" value="管理" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-920" y="605" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Y4lvauFyZp7Z05fXx9ju-85" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="Y4lvauFyZp7Z05fXx9ju-85" value="电影排行榜" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-1610" y="450" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
