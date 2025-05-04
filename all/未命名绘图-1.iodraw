@@ -128,16 +128,22 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Y4lvauFyZp7Z05fXx9ju-28" value="管理" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-398" y="475" width="100" height="60" as="geometry" />
+          <mxGeometry x="-398" y="490" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Y4lvauFyZp7Z05fXx9ju-81" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Y4lvauFyZp7Z05fXx9ju-35" target="Y4lvauFyZp7Z05fXx9ju-80">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Y4lvauFyZp7Z05fXx9ju-35" value="影厅房间" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-678" y="490" width="120" height="60" as="geometry" />
+          <mxGeometry x="-680" y="490" width="122" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Y4lvauFyZp7Z05fXx9ju-40" value="" style="orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Y4lvauFyZp7Z05fXx9ju-37" target="Y4lvauFyZp7Z05fXx9ju-39">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Y4lvauFyZp7Z05fXx9ju-37" value="浏览" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-398" y="595" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Y4lvauFyZp7Z05fXx9ju-82" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Y4lvauFyZp7Z05fXx9ju-39" target="Y4lvauFyZp7Z05fXx9ju-69">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Y4lvauFyZp7Z05fXx9ju-39" value="放映记录" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-678" y="595" width="120" height="60" as="geometry" />
