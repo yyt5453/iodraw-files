@@ -23,7 +23,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Y4lvauFyZp7Z05fXx9ju-3" value="收藏电影" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="280" y="210" width="110" height="40" as="geometry" />
+          <mxGeometry x="290" y="230" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Y4lvauFyZp7Z05fXx9ju-6" value="收藏" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="480" y="310" width="110" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
