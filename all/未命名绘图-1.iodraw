@@ -93,14 +93,14 @@
         <mxCell id="Y4lvauFyZp7Z05fXx9ju-24" value="电影分类" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="220" y="250" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Y4lvauFyZp7Z05fXx9ju-36" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Y4lvauFyZp7Z05fXx9ju-28" target="Y4lvauFyZp7Z05fXx9ju-35">
+        <mxCell id="Y4lvauFyZp7Z05fXx9ju-36" value="" style="orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Y4lvauFyZp7Z05fXx9ju-28" target="Y4lvauFyZp7Z05fXx9ju-35">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Y4lvauFyZp7Z05fXx9ju-28" value="管理" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-220" y="415" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Y4lvauFyZp7Z05fXx9ju-35" value="影厅房间" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="220" y="570" width="120" height="60" as="geometry" />
+          <mxGeometry x="-480" y="415" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Y4lvauFyZp7Z05fXx9ju-40" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Y4lvauFyZp7Z05fXx9ju-37" target="Y4lvauFyZp7Z05fXx9ju-39">
           <mxGeometry relative="1" as="geometry" />
@@ -109,7 +109,7 @@
           <mxGeometry x="-220" y="520" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Y4lvauFyZp7Z05fXx9ju-39" value="放映记录" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="220" y="670" width="120" height="60" as="geometry" />
+          <mxGeometry x="-480" y="520" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
