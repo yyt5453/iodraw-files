@@ -36,8 +36,14 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="8_f08_1TNCGjE0edAADo-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8_f08_1TNCGjE0edAADo-10" target="8_f08_1TNCGjE0edAADo-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="8_f08_1TNCGjE0edAADo-10" value="公告信息是否正确" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="262" y="520" width="184" height="115" as="geometry" />
+        </mxCell>
+        <mxCell id="8_f08_1TNCGjE0edAADo-14" value="上传" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="294" y="742.5" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
