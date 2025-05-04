@@ -22,6 +22,9 @@
         <mxCell id="PNzwGc2P1PxlKd-06fqx-7" value="电影热播推荐" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="240" width="110" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="PNzwGc2P1PxlKd-06fqx-8" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
