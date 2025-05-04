@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="qu2cC1bsVfmRiJGNnNRl-4" value="电影购票系统" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="357" y="100" width="112.5" height="50" as="geometry" />
+          <mxGeometry x="320" y="100" width="112.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="PNzwGc2P1PxlKd-06fqx-3" value="用户管理" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="10" y="240" width="90" height="40" as="geometry" />
@@ -24,6 +24,9 @@
         </mxCell>
         <mxCell id="PNzwGc2P1PxlKd-06fqx-8" value="电影评分管理" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="640" y="240" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PNzwGc2P1PxlKd-06fqx-9" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="340" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
