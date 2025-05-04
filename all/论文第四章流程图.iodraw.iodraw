@@ -73,11 +73,14 @@
         <mxCell id="PNzwGc2P1PxlKd-06fqx-22" value="&lt;p&gt;用户登录注册&lt;/p&gt;" style="whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="252" y="421" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="PNzwGc2P1PxlKd-06fqx-27" value="&lt;p&gt;用户登录注册&lt;/p&gt;" style="whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="133" y="430" width="140" height="30" as="geometry" />
+        <mxCell id="PNzwGc2P1PxlKd-06fqx-29" value="&lt;p&gt;用户登录注册&lt;/p&gt;" style="whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="133" y="431" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="PNzwGc2P1PxlKd-06fqx-28" value="&lt;p&gt;用户登录注册&lt;/p&gt;" style="whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="263" y="430" width="140" height="30" as="geometry" />
+        <mxCell id="PNzwGc2P1PxlKd-06fqx-30" value="&lt;p&gt;用户登录注册&lt;/p&gt;" style="whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="195.5" y="428.5" width="145" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PNzwGc2P1PxlKd-06fqx-31" value="&lt;p&gt;用户登录注册&lt;/p&gt;" style="whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="263" y="431" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
