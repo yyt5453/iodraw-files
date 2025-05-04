@@ -239,6 +239,11 @@
         <mxCell id="Y4lvauFyZp7Z05fXx9ju-86" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Y4lvauFyZp7Z05fXx9ju-65" target="Y4lvauFyZp7Z05fXx9ju-85">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="Y4lvauFyZp7Z05fXx9ju-109" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Y4lvauFyZp7Z05fXx9ju-86">
+          <mxGeometry x="0.3448" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="Y4lvauFyZp7Z05fXx9ju-65" value="浏览" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-198" width="150" height="60" as="geometry" />
         </mxCell>
@@ -266,7 +271,7 @@
         <mxCell id="Y4lvauFyZp7Z05fXx9ju-83" value="管理" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-927" y="595" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Y4lvauFyZp7Z05fXx9ju-88" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Y4lvauFyZp7Z05fXx9ju-85" target="Y4lvauFyZp7Z05fXx9ju-87">
+        <mxCell id="Y4lvauFyZp7Z05fXx9ju-88" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Y4lvauFyZp7Z05fXx9ju-85" target="Y4lvauFyZp7Z05fXx9ju-87">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Y4lvauFyZp7Z05fXx9ju-90" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Y4lvauFyZp7Z05fXx9ju-88">
