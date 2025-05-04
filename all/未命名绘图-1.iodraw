@@ -191,6 +191,9 @@
         <mxCell id="Y4lvauFyZp7Z05fXx9ju-66" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Y4lvauFyZp7Z05fXx9ju-65" target="fuSBg8GUouG9gl6498T8-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="Y4lvauFyZp7Z05fXx9ju-86" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Y4lvauFyZp7Z05fXx9ju-65" target="Y4lvauFyZp7Z05fXx9ju-85">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Y4lvauFyZp7Z05fXx9ju-65" value="浏览" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-198" width="150" height="60" as="geometry" />
         </mxCell>
@@ -216,7 +219,7 @@
           <mxGeometry x="-920" y="605" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Y4lvauFyZp7Z05fXx9ju-85" value="电影排行榜" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-1570" y="437.5" width="170" height="80" as="geometry" />
+          <mxGeometry x="-1610" y="440" width="170" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
