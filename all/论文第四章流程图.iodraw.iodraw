@@ -11,13 +11,13 @@
           <mxGeometry x="10" y="240" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PNzwGc2P1PxlKd-06fqx-4" value="订单管理" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="180" y="230" width="80" height="40" as="geometry" />
+          <mxGeometry x="140" y="240" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PNzwGc2P1PxlKd-06fqx-5" value="影视作品管理" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="230" width="120" height="60" as="geometry" />
+          <mxGeometry x="270" y="240" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PNzwGc2P1PxlKd-06fqx-6" value="公告管理" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="470" y="220" width="120" height="60" as="geometry" />
+          <mxGeometry x="410" y="240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PNzwGc2P1PxlKd-06fqx-7" value="电影热播推荐" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="630" y="220" width="120" height="60" as="geometry" />
