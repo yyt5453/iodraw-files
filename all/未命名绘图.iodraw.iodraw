@@ -19,6 +19,10 @@
         <mxCell id="R7MEun9Utw6OEwyL3_6d-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="R7MEun9Utw6OEwyL3_6d-12">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="340" y="210" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="340" y="320" />
+              <mxPoint x="340" y="320" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="R7MEun9Utw6OEwyL3_6d-12" value="是否取票" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
