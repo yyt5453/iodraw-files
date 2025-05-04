@@ -46,10 +46,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8_f08_1TNCGjE0edAADo-14" value="发布成功" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="294" y="742.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="294" y="690" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8_f08_1TNCGjE0edAADo-18" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="294" y="880" width="120" height="60" as="geometry" />
+        <mxCell id="8_f08_1TNCGjE0edAADo-18" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="294" y="790" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
