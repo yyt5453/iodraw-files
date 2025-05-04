@@ -48,8 +48,8 @@
         <mxCell id="f-XI7hHqj2RLuHtSNhg0-13" value="结束" style="rounded=1;whiteSpace=wrap;html=1;arcSize=34;" vertex="1" parent="1">
           <mxGeometry x="300" y="860" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="f-XI7hHqj2RLuHtSNhg0-16" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="290" y="720" width="120" height="60" as="geometry" />
+        <mxCell id="f-XI7hHqj2RLuHtSNhg0-16" value="观看电影结束后进行评分" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="720" width="140" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
