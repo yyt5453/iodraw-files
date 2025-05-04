@@ -62,13 +62,19 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="8CBGs88K5bMwAG3Cj-JL-17" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="8CBGs88K5bMwAG3Cj-JL-16">
+        <mxCell id="8CBGs88K5bMwAG3Cj-JL-17" value="输入错误" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="8CBGs88K5bMwAG3Cj-JL-16">
           <mxGeometry x="-0.244" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="8CBGs88K5bMwAG3Cj-JL-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8CBGs88K5bMwAG3Cj-JL-14" target="8CBGs88K5bMwAG3Cj-JL-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="8CBGs88K5bMwAG3Cj-JL-14" value="账号密码输入是否正确" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="182.82" y="560" width="131.87" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="8CBGs88K5bMwAG3Cj-JL-18" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="188.755" y="685" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
