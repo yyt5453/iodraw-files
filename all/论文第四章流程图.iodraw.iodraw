@@ -13,8 +13,14 @@
         <mxCell id="PNzwGc2P1PxlKd-06fqx-3" value="用户管理" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="20" y="240" width="90" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="PNzwGc2P1PxlKd-06fqx-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="PNzwGc2P1PxlKd-06fqx-4" target="qu2cC1bsVfmRiJGNnNRl-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="PNzwGc2P1PxlKd-06fqx-4" value="订单管理" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="212" y="240" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PNzwGc2P1PxlKd-06fqx-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="PNzwGc2P1PxlKd-06fqx-5" target="qu2cC1bsVfmRiJGNnNRl-4">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PNzwGc2P1PxlKd-06fqx-5" value="影视作品管理" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="398" y="240" width="90" height="40" as="geometry" />
