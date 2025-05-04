@@ -26,7 +26,7 @@
           <mxGeometry x="650" y="240" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PNzwGc2P1PxlKd-06fqx-9" value="&lt;p&gt;用户登录注册&lt;/p&gt;" style="whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="90" y="400" width="120" height="40" as="geometry" />
+          <mxGeometry x="75" y="415" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
