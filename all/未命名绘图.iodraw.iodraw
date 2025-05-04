@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="vUMqwAyimH3g4nxs6avY">
-    <mxGraphModel dx="840" dy="722" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="840" dy="1891" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,7 +8,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Wf-2RokSHPoX2hzZU0QQ-2" value="开始" style="rounded=1;whiteSpace=wrap;html=1;arcSize=25;" vertex="1" parent="1">
-          <mxGeometry x="290" y="40" width="100" height="50" as="geometry" />
+          <mxGeometry x="290" y="-70" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Wf-2RokSHPoX2hzZU0QQ-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Wf-2RokSHPoX2hzZU0QQ-4" target="Wf-2RokSHPoX2hzZU0QQ-9">
           <mxGeometry relative="1" as="geometry" />
@@ -44,11 +44,8 @@
         <mxCell id="Wf-2RokSHPoX2hzZU0QQ-10" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="540" width="100" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="Wf-2RokSHPoX2hzZU0QQ-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Wf-2RokSHPoX2hzZU0QQ-11" target="Wf-2RokSHPoX2hzZU0QQ-4">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="Wf-2RokSHPoX2hzZU0QQ-11" value="管理员上传电影信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="130" width="120" height="40" as="geometry" />
+          <mxGeometry x="280" y="30" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
