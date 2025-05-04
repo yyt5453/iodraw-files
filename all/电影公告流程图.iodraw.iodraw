@@ -26,7 +26,7 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="354" y="350" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="500" y="585" />
+              <mxPoint x="500" y="578" />
               <mxPoint x="500" y="350" />
             </Array>
           </mxGeometry>
@@ -37,7 +37,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="8_f08_1TNCGjE0edAADo-10" value="公告信息是否正确" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="256" y="525" width="194" height="115" as="geometry" />
+          <mxGeometry x="262" y="520" width="184" height="115" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
