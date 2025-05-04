@@ -36,8 +36,14 @@
         <mxCell id="f-XI7hHqj2RLuHtSNhg0-5" value="是否取票观看电影" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="260" y="395" width="180" height="95" as="geometry" />
         </mxCell>
+        <mxCell id="f-XI7hHqj2RLuHtSNhg0-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="f-XI7hHqj2RLuHtSNhg0-9" target="f-XI7hHqj2RLuHtSNhg0-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="f-XI7hHqj2RLuHtSNhg0-9" value="取票成功" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="290" y="587.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="290" y="540" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="f-XI7hHqj2RLuHtSNhg0-11" value="观看电影" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="290" y="680" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
