@@ -22,6 +22,11 @@
         <mxCell id="8_f08_1TNCGjE0edAADo-8" value="管理员上传公告内容" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="294" y="400" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="8_f08_1TNCGjE0edAADo-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8_f08_1TNCGjE0edAADo-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="354" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="8_f08_1TNCGjE0edAADo-10" value="公告信息是否正确" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="256" y="525" width="196" height="120" as="geometry" />
         </mxCell>
