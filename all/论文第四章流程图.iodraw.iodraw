@@ -79,8 +79,16 @@
         <mxCell id="PNzwGc2P1PxlKd-06fqx-29" value="&lt;p&gt;用户登录注册&lt;/p&gt;" style="whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="308" y="421" width="140" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="PNzwGc2P1PxlKd-06fqx-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="PNzwGc2P1PxlKd-06fqx-30">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="443.1176470588234" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="PNzwGc2P1PxlKd-06fqx-30" value="&lt;p&gt;用户登录注册&lt;/p&gt;" style="whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="370.5" y="418.5" width="145" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PNzwGc2P1PxlKd-06fqx-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="PNzwGc2P1PxlKd-06fqx-31" target="PNzwGc2P1PxlKd-06fqx-5">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PNzwGc2P1PxlKd-06fqx-31" value="&lt;p&gt;用户登录注册&lt;/p&gt;" style="whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="438" y="421" width="140" height="30" as="geometry" />
