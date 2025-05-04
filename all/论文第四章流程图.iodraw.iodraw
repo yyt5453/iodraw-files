@@ -93,6 +93,15 @@
         <mxCell id="PNzwGc2P1PxlKd-06fqx-31" value="&lt;p&gt;用户登录注册&lt;/p&gt;" style="whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="438" y="421" width="140" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="PNzwGc2P1PxlKd-06fqx-35" value="&lt;p&gt;用户登录注册&lt;/p&gt;" style="whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="142" y="441" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PNzwGc2P1PxlKd-06fqx-36" value="&lt;p&gt;用户登录注册&lt;/p&gt;" style="whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="204.5" y="438.5" width="145" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PNzwGc2P1PxlKd-06fqx-37" value="&lt;p&gt;用户登录注册&lt;/p&gt;" style="whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="272" y="441" width="140" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
