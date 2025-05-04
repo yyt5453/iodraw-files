@@ -17,7 +17,7 @@
           <mxGeometry x="398" y="240" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PNzwGc2P1PxlKd-06fqx-6" value="公告管理" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="598.5" y="240" width="90" height="40" as="geometry" />
+          <mxGeometry x="590" y="240" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PNzwGc2P1PxlKd-06fqx-7" value="电影热播推荐" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="795" y="240" width="90" height="40" as="geometry" />
@@ -105,7 +105,13 @@
           <mxGeometry x="511" y="421" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PNzwGc2P1PxlKd-06fqx-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="PNzwGc2P1PxlKd-06fqx-36" target="PNzwGc2P1PxlKd-06fqx-6">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="640" y="361" />
+              <mxPoint x="640" y="320" />
+              <mxPoint x="644" y="320" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="PNzwGc2P1PxlKd-06fqx-36" value="&lt;p&gt;用户登录注册&lt;/p&gt;" style="whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="573.5" y="418.5" width="145" height="30" as="geometry" />
