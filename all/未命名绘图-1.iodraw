@@ -21,8 +21,13 @@
         <mxCell id="Y4lvauFyZp7Z05fXx9ju-41" style="orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Y4lvauFyZp7Z05fXx9ju-0" target="Y4lvauFyZp7Z05fXx9ju-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="Y4lvauFyZp7Z05fXx9ju-42" value="12" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Y4lvauFyZp7Z05fXx9ju-41">
+          <mxGeometry x="-0.0105" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="Y4lvauFyZp7Z05fXx9ju-0" value="影院管理员" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="10" y="455" width="110" height="60" as="geometry" />
+          <mxGeometry x="20" y="457.5" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Y4lvauFyZp7Z05fXx9ju-1" value="系统管理员" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-730" y="270" width="80" height="40" as="geometry" />
