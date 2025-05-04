@@ -161,7 +161,7 @@
           <mxGeometry x="480" y="730" width="109" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Y4lvauFyZp7Z05fXx9ju-50" value="电影" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-820" y="735" width="110" height="60" as="geometry" />
+          <mxGeometry x="-1180" y="730" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Y4lvauFyZp7Z05fXx9ju-58" value="" style="orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Y4lvauFyZp7Z05fXx9ju-55" target="Y4lvauFyZp7Z05fXx9ju-57">
           <mxGeometry relative="1" as="geometry" />
