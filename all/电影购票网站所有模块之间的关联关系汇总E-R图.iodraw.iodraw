@@ -128,8 +128,8 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Y4lvauFyZp7Z05fXx9ju-6" value="浏览公告" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="210" y="335" width="110" height="50" as="geometry" />
+        <mxCell id="Y4lvauFyZp7Z05fXx9ju-6" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;浏览公告&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="166" y="335" width="154" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Y4lvauFyZp7Z05fXx9ju-13" style="orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Y4lvauFyZp7Z05fXx9ju-7" target="Y4lvauFyZp7Z05fXx9ju-6">
           <mxGeometry relative="1" as="geometry" />
