@@ -14,7 +14,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Wf-2RokSHPoX2hzZU0QQ-4" value="用户购票" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="285" y="309" width="110" height="50" as="geometry" />
+          <mxGeometry x="285" y="324" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Wf-2RokSHPoX2hzZU0QQ-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Wf-2RokSHPoX2hzZU0QQ-9" target="Wf-2RokSHPoX2hzZU0QQ-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -38,7 +38,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Wf-2RokSHPoX2hzZU0QQ-9" value="是否取票" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+        <mxCell id="Wf-2RokSHPoX2hzZU0QQ-9" value="判断电影是否进入热播推荐" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="285" y="439" width="110" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Wf-2RokSHPoX2hzZU0QQ-10" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
