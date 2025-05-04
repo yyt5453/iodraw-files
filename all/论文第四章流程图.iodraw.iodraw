@@ -5,25 +5,25 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="qu2cC1bsVfmRiJGNnNRl-4" value="电影购票系统" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="320" y="100" width="112.5" height="50" as="geometry" />
+          <mxGeometry x="340" y="100" width="112.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="PNzwGc2P1PxlKd-06fqx-3" value="用户管理" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="24" y="240" width="90" height="40" as="geometry" />
+          <mxGeometry x="20" y="240" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PNzwGc2P1PxlKd-06fqx-4" value="订单管理" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="154" y="240" width="90" height="40" as="geometry" />
+          <mxGeometry x="150" y="240" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PNzwGc2P1PxlKd-06fqx-5" value="影视作品管理" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="284" y="240" width="90" height="40" as="geometry" />
+          <mxGeometry x="280" y="240" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PNzwGc2P1PxlKd-06fqx-6" value="公告管理" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="406.5" y="240" width="90" height="40" as="geometry" />
+          <mxGeometry x="402.5" y="240" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PNzwGc2P1PxlKd-06fqx-7" value="电影热播推荐" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="534" y="240" width="90" height="40" as="geometry" />
+          <mxGeometry x="530" y="240" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PNzwGc2P1PxlKd-06fqx-8" value="电影评分管理" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="654" y="240" width="90" height="40" as="geometry" />
+          <mxGeometry x="650" y="240" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PNzwGc2P1PxlKd-06fqx-9" value="&lt;p&gt;用户登录注册&lt;/p&gt;" style="whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="-40" y="370" width="120" height="40" as="geometry" />
