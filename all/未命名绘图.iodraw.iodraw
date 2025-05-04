@@ -25,7 +25,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="R7MEun9Utw6OEwyL3_6d-19" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="R7MEun9Utw6OEwyL3_6d-15">
+        <mxCell id="R7MEun9Utw6OEwyL3_6d-19" value="退票，重新购票" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="R7MEun9Utw6OEwyL3_6d-15">
           <mxGeometry x="-0.1219" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
