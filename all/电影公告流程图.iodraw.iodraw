@@ -16,7 +16,7 @@
         <mxCell id="8_f08_1TNCGjE0edAADo-6" value="管理员登录后台系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="294" y="260" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8_f08_1TNCGjE0edAADo-8" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="8_f08_1TNCGjE0edAADo-8" value="管理员上传公告内容" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="294" y="400" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
