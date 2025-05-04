@@ -187,6 +187,11 @@
         <mxCell id="Y4lvauFyZp7Z05fXx9ju-36" value="" style="orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Y4lvauFyZp7Z05fXx9ju-28" target="Y4lvauFyZp7Z05fXx9ju-35">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="Y4lvauFyZp7Z05fXx9ju-122" value="n" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Y4lvauFyZp7Z05fXx9ju-36">
+          <mxGeometry x="0.067" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="Y4lvauFyZp7Z05fXx9ju-28" value="管理" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-398" y="450" width="100" height="60" as="geometry" />
         </mxCell>
