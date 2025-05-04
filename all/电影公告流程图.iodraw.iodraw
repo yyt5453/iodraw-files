@@ -25,6 +25,10 @@
         <mxCell id="8_f08_1TNCGjE0edAADo-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8_f08_1TNCGjE0edAADo-10">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="354" y="350" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="354" y="450" />
+              <mxPoint x="355" y="450" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="8_f08_1TNCGjE0edAADo-10" value="公告信息是否正确" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
