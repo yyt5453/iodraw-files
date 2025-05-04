@@ -7,6 +7,9 @@
         <mxCell id="qu2cC1bsVfmRiJGNnNRl-4" value="电影购票系统" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="280" y="110" width="112.5" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="PNzwGc2P1PxlKd-06fqx-3" value="用户管理" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
