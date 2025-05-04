@@ -31,8 +31,8 @@
         <mxCell id="R7MEun9Utw6OEwyL3_6d-12" value="是否取票" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="285" y="400" width="110" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="R7MEun9Utw6OEwyL3_6d-16" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="525" width="120" height="60" as="geometry" />
+        <mxCell id="R7MEun9Utw6OEwyL3_6d-16" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="525" width="100" height="45" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
