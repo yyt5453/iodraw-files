@@ -25,6 +25,10 @@
         <mxCell id="8CBGs88K5bMwAG3Cj-JL-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8CBGs88K5bMwAG3Cj-JL-5">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="248.75" y="230" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="350" y="390" />
+              <mxPoint x="350" y="230" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="8CBGs88K5bMwAG3Cj-JL-5" value="账号和密码是否符合格式" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
