@@ -13,8 +13,14 @@
         <mxCell id="qu2cC1bsVfmRiJGNnNRl-4" value="用户注册" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="202.5" y="170" width="92.5" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="8CBGs88K5bMwAG3Cj-JL-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8CBGs88K5bMwAG3Cj-JL-4" target="8CBGs88K5bMwAG3Cj-JL-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="8CBGs88K5bMwAG3Cj-JL-4" value="用户输入账号和密码" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="201.25" y="250" width="92.5" height="50" as="geometry" />
+          <mxGeometry x="188.13" y="250" width="118.75" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8CBGs88K5bMwAG3Cj-JL-5" value="" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="207.505" y="350" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
