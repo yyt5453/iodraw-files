@@ -25,17 +25,6 @@
         <mxCell id="PNzwGc2P1PxlKd-06fqx-8" value="电影评分管理" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="650" y="240" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="PNzwGc2P1PxlKd-06fqx-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-1" y="385" as="sourcePoint" />
-            <mxPoint x="74" y="280" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="-11" y="385" />
-              <mxPoint x="-11" y="320" />
-              <mxPoint x="74" y="320" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="PNzwGc2P1PxlKd-06fqx-9" value="&lt;p&gt;用户登录注册&lt;/p&gt;" style="whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="-80" y="440" width="140" height="30" as="geometry" />
         </mxCell>
