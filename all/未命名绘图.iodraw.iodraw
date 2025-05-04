@@ -44,8 +44,17 @@
         <mxCell id="Wf-2RokSHPoX2hzZU0QQ-10" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="540" width="100" height="45" as="geometry" />
         </mxCell>
+        <mxCell id="Wf-2RokSHPoX2hzZU0QQ-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Wf-2RokSHPoX2hzZU0QQ-11" target="Wf-2RokSHPoX2hzZU0QQ-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Wf-2RokSHPoX2hzZU0QQ-11" value="管理员上传电影信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="30" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Wf-2RokSHPoX2hzZU0QQ-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Wf-2RokSHPoX2hzZU0QQ-14" target="Wf-2RokSHPoX2hzZU0QQ-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Wf-2RokSHPoX2hzZU0QQ-14" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="100" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
