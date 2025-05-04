@@ -160,7 +160,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Y4lvauFyZp7Z05fXx9ju-55" value="浏览" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="470" y="580" width="100" height="60" as="geometry" />
+          <mxGeometry x="480" y="580" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Y4lvauFyZp7Z05fXx9ju-62" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Y4lvauFyZp7Z05fXx9ju-57" target="Y4lvauFyZp7Z05fXx9ju-45">
           <mxGeometry relative="1" as="geometry" />
