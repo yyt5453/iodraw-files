@@ -8,7 +8,7 @@
           <mxGeometry x="280" y="110" width="112.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="PNzwGc2P1PxlKd-06fqx-3" value="用户管理" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="20" y="230" width="120" height="60" as="geometry" />
+          <mxGeometry y="230" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PNzwGc2P1PxlKd-06fqx-4" value="订单管理" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="230" width="120" height="60" as="geometry" />
@@ -20,7 +20,7 @@
           <mxGeometry x="470" y="220" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PNzwGc2P1PxlKd-06fqx-7" value="电影热播推荐" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="880" y="270" width="120" height="60" as="geometry" />
+          <mxGeometry x="630" y="220" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
