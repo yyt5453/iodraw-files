@@ -73,14 +73,8 @@
         <mxCell id="8CBGs88K5bMwAG3Cj-JL-14" value="账号密码输入是否正确" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="182.82" y="560" width="131.87" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="8CBGs88K5bMwAG3Cj-JL-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8CBGs88K5bMwAG3Cj-JL-18" target="8CBGs88K5bMwAG3Cj-JL-20">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="8CBGs88K5bMwAG3Cj-JL-18" value="登录成功" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="188.755" y="685" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="8CBGs88K5bMwAG3Cj-JL-20" value="登录成功" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="188.755" y="825" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
