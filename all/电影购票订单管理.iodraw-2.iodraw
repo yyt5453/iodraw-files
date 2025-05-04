@@ -1,0 +1,62 @@
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="24.7.17">
+  <diagram name="第 1 页" id="vUMqwAyimH3g4nxs6avY">
+    <mxGraphModel dx="840" dy="1891" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Wf-2RokSHPoX2hzZU0QQ-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Wf-2RokSHPoX2hzZU0QQ-2" target="Wf-2RokSHPoX2hzZU0QQ-11" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Wf-2RokSHPoX2hzZU0QQ-2" value="开始" style="rounded=1;whiteSpace=wrap;html=1;arcSize=25;" parent="1" vertex="1">
+          <mxGeometry x="290" y="-20" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Wf-2RokSHPoX2hzZU0QQ-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Wf-2RokSHPoX2hzZU0QQ-4" target="Wf-2RokSHPoX2hzZU0QQ-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Wf-2RokSHPoX2hzZU0QQ-4" value="用户购票" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="285" y="290" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Wf-2RokSHPoX2hzZU0QQ-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Wf-2RokSHPoX2hzZU0QQ-9" target="Wf-2RokSHPoX2hzZU0QQ-10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Wf-2RokSHPoX2hzZU0QQ-8" value="取票后观看电影" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="Wf-2RokSHPoX2hzZU0QQ-7" vertex="1" connectable="0">
+          <mxGeometry x="-0.1067" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Wf-2RokSHPoX2hzZU0QQ-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="Wf-2RokSHPoX2hzZU0QQ-9" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="340" y="220" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="520" y="440" />
+              <mxPoint x="520" y="220" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Wf-2RokSHPoX2hzZU0QQ-18" value="退票,重新购票" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="Wf-2RokSHPoX2hzZU0QQ-17" vertex="1" connectable="0">
+          <mxGeometry x="-0.053" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Wf-2RokSHPoX2hzZU0QQ-9" value="是否取票" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="285" y="400" width="110" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Wf-2RokSHPoX2hzZU0QQ-10" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="290" y="540" width="100" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="Wf-2RokSHPoX2hzZU0QQ-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Wf-2RokSHPoX2hzZU0QQ-11" target="Wf-2RokSHPoX2hzZU0QQ-14" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Wf-2RokSHPoX2hzZU0QQ-11" value="管理员上传电影信息" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="280" y="60" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Wf-2RokSHPoX2hzZU0QQ-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Wf-2RokSHPoX2hzZU0QQ-14" target="Wf-2RokSHPoX2hzZU0QQ-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Wf-2RokSHPoX2hzZU0QQ-14" value="影院院人员排片" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="280" y="140" width="120" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
