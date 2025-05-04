@@ -124,7 +124,7 @@
         <mxCell id="Y4lvauFyZp7Z05fXx9ju-37" value="浏览" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="470" y="670" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Y4lvauFyZp7Z05fXx9ju-39" value="放映" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="Y4lvauFyZp7Z05fXx9ju-39" value="放映记录" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="280" y="670" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
