@@ -46,7 +46,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PNzwGc2P1PxlKd-06fqx-16" value="&lt;p&gt;用户登录注册&lt;/p&gt;" style="whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="60" y="416" width="140" height="30" as="geometry" />
+          <mxGeometry x="60" y="420" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
