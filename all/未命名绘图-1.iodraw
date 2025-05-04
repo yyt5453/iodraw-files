@@ -49,7 +49,7 @@
           <mxGeometry x="-158" y="535" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Y4lvauFyZp7Z05fXx9ju-1" value="系统管理员" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-760" y="250" width="150" height="90" as="geometry" />
+          <mxGeometry x="-700" y="277.5" width="150" height="90" as="geometry" />
         </mxCell>
         <mxCell id="Y4lvauFyZp7Z05fXx9ju-5" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Y4lvauFyZp7Z05fXx9ju-8" target="fuSBg8GUouG9gl6498T8-2">
           <mxGeometry relative="1" as="geometry">
