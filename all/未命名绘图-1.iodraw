@@ -32,8 +32,7 @@
             <mxPoint x="248.75" y="230" as="targetPoint" />
             <Array as="points">
               <mxPoint x="350" y="390" />
-              <mxPoint x="350" y="240" />
-              <mxPoint x="249" y="240" />
+              <mxPoint x="350" y="230" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -42,8 +41,14 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="8CBGs88K5bMwAG3Cj-JL-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8CBGs88K5bMwAG3Cj-JL-5" target="8CBGs88K5bMwAG3Cj-JL-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="8CBGs88K5bMwAG3Cj-JL-5" value="账号和密码是否符合格式" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="177.5" y="350" width="142.5" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8CBGs88K5bMwAG3Cj-JL-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="188.75" y="520" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
