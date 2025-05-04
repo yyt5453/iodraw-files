@@ -16,9 +16,9 @@
         <mxCell id="R7MEun9Utw6OEwyL3_6d-8" value="用户购票" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="260" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="R7MEun9Utw6OEwyL3_6d-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="R7MEun9Utw6OEwyL3_6d-12">
+        <mxCell id="R7MEun9Utw6OEwyL3_6d-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="R7MEun9Utw6OEwyL3_6d-12">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="340" y="350" as="targetPoint" />
+            <mxPoint x="340" y="210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="R7MEun9Utw6OEwyL3_6d-12" value="是否取票" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
