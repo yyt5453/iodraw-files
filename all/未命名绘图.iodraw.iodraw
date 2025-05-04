@@ -53,8 +53,8 @@
         <mxCell id="Wf-2RokSHPoX2hzZU0QQ-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Wf-2RokSHPoX2hzZU0QQ-14" target="Wf-2RokSHPoX2hzZU0QQ-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Wf-2RokSHPoX2hzZU0QQ-14" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="280" y="100" width="120" height="60" as="geometry" />
+        <mxCell id="Wf-2RokSHPoX2hzZU0QQ-14" value="影院院人员排片" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="120" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
