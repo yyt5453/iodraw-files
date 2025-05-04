@@ -16,21 +16,6 @@
         <mxCell id="Wf-2RokSHPoX2hzZU0QQ-4" value="用户购票" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="285" y="290" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Wf-2RokSHPoX2hzZU0QQ-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Wf-2RokSHPoX2hzZU0QQ-9">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="340" y="210" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="460" y="440" />
-              <mxPoint x="460" y="240" />
-              <mxPoint x="340" y="240" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Wf-2RokSHPoX2hzZU0QQ-6" value="退票，重新购票" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Wf-2RokSHPoX2hzZU0QQ-5">
-          <mxGeometry x="-0.1219" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="Wf-2RokSHPoX2hzZU0QQ-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Wf-2RokSHPoX2hzZU0QQ-9" target="Wf-2RokSHPoX2hzZU0QQ-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -52,12 +37,7 @@
           <mxGeometry x="280" y="60" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Wf-2RokSHPoX2hzZU0QQ-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Wf-2RokSHPoX2hzZU0QQ-14" target="Wf-2RokSHPoX2hzZU0QQ-4">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="320" y="235" />
-              <mxPoint x="340" y="235" />
-            </Array>
-          </mxGeometry>
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Wf-2RokSHPoX2hzZU0QQ-14" value="影院院人员排片" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="280" y="140" width="120" height="40" as="geometry" />
