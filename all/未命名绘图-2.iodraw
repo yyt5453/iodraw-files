@@ -7,7 +7,7 @@
         <mxCell id="2LnF8mD_OAOaDHaVJd1w-162" value="电影购票系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="735" y="530" width="112.5" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="2LnF8mD_OAOaDHaVJd1w-163" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="2LnF8mD_OAOaDHaVJd1w-164" target="2LnF8mD_OAOaDHaVJd1w-162">
+        <mxCell id="2LnF8mD_OAOaDHaVJd1w-163" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="2LnF8mD_OAOaDHaVJd1w-164" target="2LnF8mD_OAOaDHaVJd1w-162">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2LnF8mD_OAOaDHaVJd1w-164" value="用户管理" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -60,7 +60,7 @@
         <mxCell id="2LnF8mD_OAOaDHaVJd1w-178" value="&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="227.5" y="867.5" width="145" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2LnF8mD_OAOaDHaVJd1w-179" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="2LnF8mD_OAOaDHaVJd1w-180" target="2LnF8mD_OAOaDHaVJd1w-164">
+        <mxCell id="2LnF8mD_OAOaDHaVJd1w-179" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="2LnF8mD_OAOaDHaVJd1w-180" target="2LnF8mD_OAOaDHaVJd1w-164">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="365" y="770" />
